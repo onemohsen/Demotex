@@ -1,0 +1,14 @@
+.editIcon {
+    :hover {
+        color: $orange;
+        cursor: pointer;
+    }
+    color: $gray;
+}
+.deleteIcon{
+    :hover {
+        color: $red;
+        cursor: pointer;
+    }
+    color: $gray;
+}
